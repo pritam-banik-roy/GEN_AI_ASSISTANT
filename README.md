@@ -22,7 +22,7 @@ Welcome to the AI Assistant, a powerful tool that leverages cutting-edge AI tech
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/Aishee06/Gen-AI_Assistant.git
+   git clone https://github.com/pritam-banik-roy/GEN_AI_ASSISTANT.git
 
 ### Navigate to the project directory:
 ```bash
